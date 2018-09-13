@@ -1,2 +1,2 @@
 # Sprane
-Private Android Porject
+Android Project
